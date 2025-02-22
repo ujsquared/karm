@@ -1,0 +1,11 @@
+Neovim plugin
+- [ ] first think of a name for it.
+- [ ] i want it to open on the right as a buffer and switch to it everytime i press a keystroke
+- [ ] i want it to be opened on startup again, on the right
+- [ ] also i want it not just to open up a buffer, but open a .md file that has a certain formatted name
+- [ ] the name should be based on day, date whatever
+- [ ] should have buttons to end a day and start it?
+- [ ] ending a day, makes up a new day as a buffer instead with another .md file
+- [ ] we want it to use markdown format and have a basic couple of templated lines already present like project1 project2 DSA
+- [ ] we also want it to be easy to install and just be a good to-do plugin
+- [ ] try to watch sphaerophobia and kinda mimic it.
