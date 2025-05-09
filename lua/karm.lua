@@ -25,11 +25,6 @@ local function main()
 end
 
 local function setup()
-    vim.api.nvim_create_autocmd("VimEnter", {
-        group = augroup,
-        desc = "Send a basic hello world! message on load", once = true,
-        callback = main
-    })
 end
 
 return { setup = setup, toggle_todo = toggle_todo}
